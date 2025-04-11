@@ -77,6 +77,9 @@ You're ready to go! Visit the url in your browser, and login with:
 - Filterable
 - Searchable
 
+### CSV Export
+- Export User data as CSV
+
 ### Dashboard Widget
 - Total users, posts, comments
 - Recent activity (posts in last 24 hours)
